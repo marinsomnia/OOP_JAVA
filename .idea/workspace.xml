@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9b5edf8-459a-420a-8153-27a1f3e064d3" name="Changes" comment="first commit">
+    <list default="true" id="a9b5edf8-459a-420a-8153-27a1f3e064d3" name="Changes" comment="HW_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,12 +68,35 @@
       <option name="project" value="LOCAL" />
       <updated>1682059968066</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1682060706537</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682060706538</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HW_2">
+      <created>1682060723292</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682060723292</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HW_2">
+      <created>1682060743985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682060743985</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW_1" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="HW_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_2" />
   </component>
 </project>
